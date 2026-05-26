@@ -6,4 +6,4 @@ For "Autoencoder.py", it is a code that uses Autoencoder for dimensionality redu
 
 For "Information_Entropy.py", it used to calculate the information entropy for each internal coordinate. Please prepare the redundant internal corrdinate matrices for both the initial and hopping geometries of each cluster of molecule respectively.
 
-"cluster.npy" consists of 13 vertors. The 1st vertor is the classification result we used in the subsequent analysis. The results from 2nd to 13th are used to verify the robustness of dimensionality reduction and clustering. The 2st to 7th correspond to 2D latent space, and the 8th to 13th correspond to 3D latent space.
+The "cluster.npy" consists of 13 vertors. The 1st vertor is the classification result we used in the subsequent analysis. The results from 2nd to 13th are used to verify the robustness of dimensionality reduction and clustering. The 2st to 7th correspond to 2D latent space, and the 8th to 13th correspond to 3D latent space.
